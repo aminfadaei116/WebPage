@@ -17,6 +17,7 @@ layout: page
 	<li>Modelsim, Multisim, Proteus, Quartus II</li>
 	<li>C/C++</li>
 	<li>Microcontroller: ARM, AVR, Arduino</li>
+	<li>Latex</li>
 </ul>
 
 <h2>Other Skills</h2>
