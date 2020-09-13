@@ -1,6 +1,6 @@
 # main text of home
 name: Amin Fadaeinejad
-bio: I'm just a man trying to make his mark on History
+bio: I'm just a person who is trying to make his mark on History
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,13 +55,13 @@ email: aminfadaeinejad.edu@gmail.com
 authors:
   johndoe:
     name: Amin Fadaeinejad
-    bio: I'm just a man trying to make his mark on History
+    bio: I'm just a person who is trying to make his mark on History
     external-image: false
     picture: assets/images/profile.png
     twitter: johndoe
   jamesfoster:
     name: Amin Fadaeinejad
-    bio: I'm just a man trying to make his mark on History
+    bio: I'm just a person who is trying to make his mark on History
     external-image: false
     picture: assets/images/profile.png
     twitter: jamesfoster
