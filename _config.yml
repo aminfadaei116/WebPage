@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://aminfadaei116.github.io/WebPage/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -45,12 +45,12 @@ github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+quora: Amin-Fadaei-1
 # reddit: username
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: aminfadaeinejad.edu@gmail.com
 
 authors:
   johndoe:
