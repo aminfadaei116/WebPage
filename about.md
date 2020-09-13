@@ -4,22 +4,22 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi there I am Amin Fadaeinejad, a senior undergraduate student in Electrical Engineering(Control), with a minor in Computer Engineering, at the <a href="https://ut.ac.ir/en">University of Tehran</a>. In the past years of my life, I learned many things from my life and I hope one day I will reach the ultimate goal of my life.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+<h2>Academic Skills</h2>
 
+<ul class="skill-list">
+	<li>Python Libraries: NumPy, Pandas, Pytorch, Scikit-Learn</li>
+	<li>Matlab</li>
+	<li>HTML, CSS</li>
+	<li>Hardware Description: Verilog </li>
+	<li>Modelsim, Multisim, Proteus, Quartus II</li>
+	<li>C/C++</li>
+	<li>Microcontroller: ARM, AVR, Arduino</li>
+</ul>
+
+<h2>Other Skills</h2>
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
@@ -36,6 +36,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
+
 
 <h2>Projects</h2>
 
