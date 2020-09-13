@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi there I am Amin Fadaeinejad, a senior undergraduate student in Electrical Engineering(Control), with a minor in Computer Engineering, at the <a href="https://ut.ac.ir/en">University of Tehran</a>. In the past years of my life, I learned many things from my life and I hope one day I will reach the ultimate goal of my life.</p>
+<p>Hi there, I am Amin Fadaeinejad, a senior undergraduate student in Electrical Engineering(Control), with a minor in Computer Engineering, at the <a href="https://ut.ac.ir/en">University of Tehran</a>. In the past years of my life, I learned many things from my life and I hope one day I will reach the ultimate goal of my life.</p>
 
 
 <h2>Academic Skills</h2>
