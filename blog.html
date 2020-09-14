@@ -6,26 +6,19 @@ title: Blog
 pagination:
   enabled: true
 ---
-<section class="list">
-	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
-	{% elsif site.pagination.enabled %}
-		{% for post in paginator.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
 
-		{% include pagination.html%}
-	{% else %}
-		{% for post in site.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-	{% endif %}
-</section>
+<section class="list">
+    <a><h3 class="title">Deep learning with application in machine vision and audio processing[Grad]<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">Spring 2020</time></aside></h3></a>
+</section>   
+
+<section class="list">
+    <a><h3 class="title">Pattern Recognition[Grad]<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">(19/20)</time></aside></h3></a>
+</section>   
+
+<section class="list">
+    <a><h3 class="title">Machine Vision[Grad]<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">to be taken</time></aside></h3></a>
+</section>   
+
+<section class="list">
+    <a><h3 class="title">Deep learning with application in machine vision and audio processing<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">Top mark(20/20)</time></aside></h3></a>
+</section>  
