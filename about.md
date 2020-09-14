@@ -8,7 +8,7 @@ layout: page
 
 
 
-<h3>Honars And Awards</h3
+<h3>Honars And Awards</h3>
 
 <ul class="skill-list">
 	<li>Ranked 3rd out of approximate 110 undergraduate students (Ranked 2nd in Control Engineering),school of Electrical and Computer Engineering(till now)</li>
