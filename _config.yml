@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/MyCV.pdf
+resume-url: https://aminfadaei116.github.io/WebPage//assets/MyCV.pdf
 
 url: https://aminfadaei116.github.io/WebPage/
 # your url: https://USERNAME.github.io
