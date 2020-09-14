@@ -16,7 +16,7 @@ layout: page
 	<li>Ranked 394th among more than 160,000 participants in Nationwide Universities Entrance Exam (B.Sc.)</li>
 	<li>Passing the first stage of Physics Olympiad for two years</li>
 	<li> Ranked 23rd in Sharif National Student Competition </li>
-	<li>Ranked 3rd in the country at the second stage of Paya Scientific League in physics (we entered the international stage of the competition hut due to personal problems we withdrown)</li>
+	<li>Ranked 3rd in the country at the second stage of Paya Scientific League in physics (we entered the international stage of the competition hut due to personal problems we withdrown the competition)</li>
 </ul>
 
 
