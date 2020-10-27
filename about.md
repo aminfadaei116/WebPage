@@ -24,7 +24,7 @@ layout: page
 <h2>Academic Skills</h2>
 
 <ul class="skill-list">
-	<li>Python Libraries: NumPy, Pandas, Pytorch, Scikit-Learn</li>
+	<li>Python Libraries: NumPy, Pandas, Pytorch, OpenCV(python & C++), Scikit-Learn</li>
 	<li>Matlab</li>
 	<li>HTML, CSS</li>
 	<li>Hardware Description: Verilog </li>
